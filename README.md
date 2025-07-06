@@ -26,4 +26,4 @@ When I'm not building AI systems, I enjoy teaching ML concepts, playing video ga
 - 💼 Website: [haithamismail.github.io](https://haithamismail.github.io)  
 - ✉️ Email: haithamismail.hi@gmail.com  
 - 🐙 GitHub: [github.com/HaithamIsmail](https://github.com/HaithamIsmail)  
-- 🔗 LinkedIn: [linkedin.com/in/haithamismail](https://www.linkedin.com/in/haithamismail)
+- 🔗 LinkedIn: [linkedin.com/in/haithamismail](https://www.linkedin.com/in/haitham-ismail-590523208)
